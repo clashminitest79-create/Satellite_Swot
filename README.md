@@ -1,1 +1,9 @@
-# Satellite_Swot
+<title>Satellite SWOT IHM</title>
+
+<body style="background-color: black; color: white; font-family: Arial, Helvetica, sans-serif;">
+
+    
+<p>Bienvenue sur le site!</p>
+
+
+<p>Toutes les données du Satellite :</p>
